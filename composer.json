@@ -1,5 +1,5 @@
 {
-    "name": "gregwar/cache",
+    "name": "getgrav/cache",
     "description": "A lightweight file-system cache system",
     "keywords": ["cache", "caching", "system", "file-system"],
     "license": "MIT",
@@ -7,6 +7,11 @@
         {
             "name": "Gregwar",
             "email": "g.passault@gmail.com"
+        },
+        {
+            "name": "Grav CMS",
+            "email": "hello@getgrav.org",
+            "homepage": "https://getgrav.org"
         }
     ],
     "target-dir": "Gregwar/Cache",
